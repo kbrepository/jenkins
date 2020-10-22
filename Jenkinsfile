@@ -1,2 +1,3 @@
-echo hostname
+!#/bin/bash
+hostname
 python --version
