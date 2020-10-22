@@ -1,4 +1,5 @@
 !#/bin/bash
 hostname
 python --version
-echo this is navin line
+echo this is a new line
+echo HI
